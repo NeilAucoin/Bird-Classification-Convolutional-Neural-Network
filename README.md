@@ -9,7 +9,7 @@ Data set of 525 bird species. 84,635 training images, 2625 test images (5 images
 For this project, only 15 bird species of the 525 were used in order to reduce trianing times and to serve as a simpler introduction into neural networks.
 
 # Process
-![Isolate Species]((https://github.com/NeilAucoin/Bird-Classification-Convolutional-Neural-Network/blob/main/Assets/isolate_15.PNG?raw=true))
+![Isolate Species](https://github.com/NeilAucoin/Bird-Classification-Convolutional-Neural-Network/blob/main/Assets/isolate_15.PNG?raw=true)
 
 ![Shuffle, Randomize, Normalize](https://github.com/NeilAucoin/Bird-Classification-Convolutional-Neural-Network/blob/main/Assets/shuffle_randomize_normalize.PNG?raw=true)
 
